@@ -1,0 +1,321 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<div>
+  <div
+    class="ClippedDrawer-root-1"
+  >
+    <header
+      class="MuiPaper-root-16 MuiPaper-elevation4-22 MuiAppBar-root-7 MuiAppBar-positionFixed-8 MuiAppBar-colorPrimary-14 mui-fixed ClippedDrawer-appBar-2"
+    >
+      <div
+        class="MuiToolbar-root-43 MuiToolbar-regular-45 MuiToolbar-gutters-44"
+      >
+        <h6
+          class="MuiTypography-root-47 MuiTypography-h6-64 MuiTypography-colorInherit-76 MuiTypography-noWrap-73"
+        >
+          Clipped drawer
+        </h6>
+      </div>
+    </header>
+    <div
+      class="MuiDrawer-root-82 MuiDrawer-docked-83 ClippedDrawer-drawer-3"
+    >
+      <div
+        class="MuiPaper-root-16 MuiPaper-elevation0-18 MuiDrawer-paper-84 ClippedDrawer-drawerPaper-4 MuiDrawer-paperAnchorLeft-85 MuiDrawer-paperAnchorDockedLeft-89"
+      >
+        <div
+          class="ClippedDrawer-toolbar-6"
+        />
+        <ul
+          class="MuiList-root-94 MuiList-padding-95"
+        >
+          <div
+            class="MuiButtonBase-root-109 MuiListItem-root-98 MuiListItem-default-101 MuiListItem-gutters-105 MuiListItem-button-106"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class="MuiListItemIcon-root-112"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root-113"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 3H4.99c-1.11 0-1.98.9-1.98 2L3 19c0 1.1.88 2 1.99 2H19c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 12h-4c0 1.66-1.35 3-3 3s-3-1.34-3-3H4.99V5H19v10zm-3-5h-2V7h-4v3H8l4 4 4-4z"
+                />
+                <path
+                  d="M0 0h24v24H0V0z"
+                  fill="none"
+                />
+              </svg>
+            </div>
+            <div
+              class="MuiListItemText-root-122"
+            >
+              <span
+                class="MuiTypography-root-47 MuiTypography-subheading-54 MuiListItemText-primary-125"
+              >
+                Inbox
+              </span>
+            </div>
+            <span
+              class="MuiTouchRipple-root-132"
+            />
+          </div>
+          <div
+            class="MuiButtonBase-root-109 MuiListItem-root-98 MuiListItem-default-101 MuiListItem-gutters-105 MuiListItem-button-106"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class="MuiListItemIcon-root-112"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root-113"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"
+                />
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+              </svg>
+            </div>
+            <div
+              class="MuiListItemText-root-122"
+            >
+              <span
+                class="MuiTypography-root-47 MuiTypography-subheading-54 MuiListItemText-primary-125"
+              >
+                Starred
+              </span>
+            </div>
+            <span
+              class="MuiTouchRipple-root-132"
+            />
+          </div>
+          <div
+            class="MuiButtonBase-root-109 MuiListItem-root-98 MuiListItem-default-101 MuiListItem-gutters-105 MuiListItem-button-106"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class="MuiListItemIcon-root-112"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root-113"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 3H4.99c-1.11 0-1.98.9-1.98 2L3 19c0 1.1.88 2 1.99 2H19c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 12h-4c0 1.66-1.35 3-3 3s-3-1.34-3-3H4.99V5H19v10zm-3-5h-2V7h-4v3H8l4 4 4-4z"
+                />
+                <path
+                  d="M0 0h24v24H0V0z"
+                  fill="none"
+                />
+              </svg>
+            </div>
+            <div
+              class="MuiListItemText-root-122"
+            >
+              <span
+                class="MuiTypography-root-47 MuiTypography-subheading-54 MuiListItemText-primary-125"
+              >
+                Send email
+              </span>
+            </div>
+            <span
+              class="MuiTouchRipple-root-132"
+            />
+          </div>
+          <div
+            class="MuiButtonBase-root-109 MuiListItem-root-98 MuiListItem-default-101 MuiListItem-gutters-105 MuiListItem-button-106"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class="MuiListItemIcon-root-112"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root-113"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"
+                />
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+              </svg>
+            </div>
+            <div
+              class="MuiListItemText-root-122"
+            >
+              <span
+                class="MuiTypography-root-47 MuiTypography-subheading-54 MuiListItemText-primary-125"
+              >
+                Drafts
+              </span>
+            </div>
+            <span
+              class="MuiTouchRipple-root-132"
+            />
+          </div>
+        </ul>
+        <hr
+          class="MuiDivider-root-128"
+        />
+        <ul
+          class="MuiList-root-94 MuiList-padding-95"
+        >
+          <div
+            class="MuiButtonBase-root-109 MuiListItem-root-98 MuiListItem-default-101 MuiListItem-gutters-105 MuiListItem-button-106"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class="MuiListItemIcon-root-112"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root-113"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 3H4.99c-1.11 0-1.98.9-1.98 2L3 19c0 1.1.88 2 1.99 2H19c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 12h-4c0 1.66-1.35 3-3 3s-3-1.34-3-3H4.99V5H19v10zm-3-5h-2V7h-4v3H8l4 4 4-4z"
+                />
+                <path
+                  d="M0 0h24v24H0V0z"
+                  fill="none"
+                />
+              </svg>
+            </div>
+            <div
+              class="MuiListItemText-root-122"
+            >
+              <span
+                class="MuiTypography-root-47 MuiTypography-subheading-54 MuiListItemText-primary-125"
+              >
+                All mail
+              </span>
+            </div>
+            <span
+              class="MuiTouchRipple-root-132"
+            />
+          </div>
+          <div
+            class="MuiButtonBase-root-109 MuiListItem-root-98 MuiListItem-default-101 MuiListItem-gutters-105 MuiListItem-button-106"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class="MuiListItemIcon-root-112"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root-113"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"
+                />
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+              </svg>
+            </div>
+            <div
+              class="MuiListItemText-root-122"
+            >
+              <span
+                class="MuiTypography-root-47 MuiTypography-subheading-54 MuiListItemText-primary-125"
+              >
+                Trash
+              </span>
+            </div>
+            <span
+              class="MuiTouchRipple-root-132"
+            />
+          </div>
+          <div
+            class="MuiButtonBase-root-109 MuiListItem-root-98 MuiListItem-default-101 MuiListItem-gutters-105 MuiListItem-button-106"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class="MuiListItemIcon-root-112"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root-113"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 3H4.99c-1.11 0-1.98.9-1.98 2L3 19c0 1.1.88 2 1.99 2H19c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 12h-4c0 1.66-1.35 3-3 3s-3-1.34-3-3H4.99V5H19v10zm-3-5h-2V7h-4v3H8l4 4 4-4z"
+                />
+                <path
+                  d="M0 0h24v24H0V0z"
+                  fill="none"
+                />
+              </svg>
+            </div>
+            <div
+              class="MuiListItemText-root-122"
+            >
+              <span
+                class="MuiTypography-root-47 MuiTypography-subheading-54 MuiListItemText-primary-125"
+              >
+                Spam
+              </span>
+            </div>
+            <span
+              class="MuiTouchRipple-root-132"
+            />
+          </div>
+        </ul>
+      </div>
+    </div>
+    <main
+      class="ClippedDrawer-content-5"
+    >
+      <div
+        class="ClippedDrawer-toolbar-6"
+      />
+      <p
+        class="MuiTypography-root-47 MuiTypography-body1-56 MuiTypography-paragraph-75"
+      >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Rhoncus dolor purus non enim praesent elementum facilisis leo vel. Risus at ultrices mi tempus imperdiet. Semper risus in hendrerit gravida rutrum quisque non tellus. Convallis convallis tellus id interdum velit laoreet id donec ultrices. Odio morbi quis commodo odio aenean sed adipiscing. Amet nisl suscipit adipiscing bibendum est ultricies integer quis. Cursus euismod quis viverra nibh cras. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Mauris commodo quis imperdiet massa tincidunt. Cras tincidunt lobortis feugiat vivamus at augue. At augue eget arcu dictum varius duis at consectetur lorem. Velit sed ullamcorper morbi tincidunt. Lorem donec massa sapien faucibus et molestie ac.
+      </p>
+      <p
+        class="MuiTypography-root-47 MuiTypography-body1-56 MuiTypography-paragraph-75"
+      >
+        Consequat mauris nunc congue nisi vitae suscipit. Fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Pulvinar elementum integer enim neque volutpat ac tincidunt. Ornare suspendisse sed nisi lacus sed viverra tellus. Purus sit amet volutpat consequat mauris. Elementum eu facilisis sed odio morbi. Euismod lacinia at quis risus sed vulputate odio. Morbi tincidunt ornare massa eget egestas purus viverra accumsan in. In hendrerit gravida rutrum quisque non tellus orci ac. Pellentesque nec nam aliquam sem et tortor. Habitant morbi tristique senectus et. Adipiscing elit duis tristique sollicitudin nibh sit. Ornare aenean euismod elementum nisi quis eleifend. Commodo viverra maecenas accumsan lacus vel facilisis. Nulla posuere sollicitudin aliquam ultrices sagittis orci a.
+      </p>
+    </main>
+  </div>
+</div>
+`;
