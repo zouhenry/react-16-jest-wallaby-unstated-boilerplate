@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should match snapshot 1`] = `
+<header
+  class="MuiPaper-root-10 MuiPaper-elevation4-16 MuiAppBar-root-1 MuiAppBar-positionFixed-2 MuiAppBar-colorPrimary-8 mui-fixed"
+>
+  <div
+    class="MuiToolbar-root-37 MuiToolbar-regular-39"
+  >
+    <button
+      aria-label="Open drawer"
+      class="MuiButtonBase-root-47 MuiIconButton-root-41 MuiIconButton-colorInherit-42"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiIconButton-label-46"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root-50"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0z"
+            fill="none"
+          />
+          <path
+            d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+          />
+        </svg>
+      </span>
+    </button>
+    <h6
+      class="MuiTypography-root-59 MuiTypography-h6-76 MuiTypography-colorInherit-88 MuiTypography-noWrap-85"
+    >
+      My App
+    </h6>
+  </div>
+</header>
+`;
